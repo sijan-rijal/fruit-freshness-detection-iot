@@ -1,7 +1,5 @@
 # Banana Freshness IoT Project
 
-A low-cost IoT fruit freshness detection system developed using an ESP32-S3, HDC1080, AS7341, and camera module, with banana used as the main case study for prototype development and testing. The system combines environmental sensing, spectral reflectance, and RGB imaging to estimate freshness, support spoilage monitoring, and visualize results on a web dashboard.
-
 
 <img width="5906" height="8663" alt="poster_fruit_freshness_detection_iot" src="https://github.com/user-attachments/assets/09ae5318-5974-4cbf-99c0-d3b7f8cbed1b" />
 
