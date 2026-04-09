@@ -42,8 +42,3 @@
    ```text
    http://127.0.0.1:5002
    ```
-
-## notes
-- live data created by dashboard is stored in `dashboard/data_store/`
-
-- 
